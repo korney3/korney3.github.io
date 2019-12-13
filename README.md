@@ -1,4 +1,6 @@
-# Jekyll Resume Theme
+# Jekyll Resume Theme 
+
+Downloaded from [Mauricio Urraco Git](https://github.com/murraco/jekyll-theme-minimal-resume)
 
 Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 
