@@ -31,13 +31,7 @@ Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 
 # Contribution
 
-- Report issues
+- Report issues in [Mauricio Urraco Git](https://github.com/murraco/jekyll-theme-minimal-resume)
 - Open pull request with improvements
 - Spread the word
 - Reach out to directly at <mauriurraco@gmail.com>
-
-# Donate
-
-`btc: 36V7HqqENSKn6iFCBuE4iCdtB29uGoCKzN`
-
-`eth: 0xB419E3E9fa2233383E0877d442e55C34B9C944dD`
