@@ -1,13 +1,13 @@
 # Site settings
-title: Alice
+title: Alisa
 description: Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Alice
-user_description: "Current Master Student in Skoltech, Moscow, Russia.\nAreas of science interests - Machine Learning in Drug Discovery and Natural Language Processing."
-user_title: Data Scientist
+username: Alisa
+user_description: Hi there! I'm Master Student in Skoltech, Information Science&Technology program. My professional interests vary from Physics and Biotechnology to Data Science and Design, however at the moment I've rooted in ML&DL applications, particularly in Drug Design and Natural Language Processing. 
+user_title: Skoltech Master Student
 email: alisa.alenicheva@skoltech.ru
 # twitter_username: lorem_ipsum
 github_username:  korney3
