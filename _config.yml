@@ -6,9 +6,7 @@ description: Resume
 
 # User settings
 username: Alice
-user_description: >
-Current Master Student in Skoltech, Moscow, Russia. 
-Areas of science interests - Machine Learning in Drug Discovery and Natural Language Processing.</p>
+user_description: "Current Master Student in Skoltech, Moscow, Russia.\nAreas of science interests - Machine Learning in Drug Discovery and Natural Language Processing."
 user_title: Data Scientist
 email: alisa.alenicheva@skoltech.ru
 # twitter_username: lorem_ipsum
