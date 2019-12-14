@@ -8,6 +8,18 @@
 
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
   <link rel="shortcut icon" type="image/png" href="{{ '/assets/my_icon.jpg' }}" >
+
+<meta property="og:url" content="{{ SITE_URL }}">
+    <meta property="og:title" content="{{ sharing_title }}">
+    <meta property="og:description" content="{{ sharing_description }}">
+    <meta property="og:image" content="{{ SITE_URL + img_url }}">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:title" content="{{ sharing_title }}">
+    <meta name="twitter:description" content="{{ sharing_description }}">
+    <meta name="twitter:image" content="{{ SITE_URL + img_url}}">
+
 <style>
     .tech {
         flex: 1 !important;
