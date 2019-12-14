@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128.00002"
+   viewBox="0 0 128 128.00002"
+   version="1.1"
+   preserveAspectRatio="xMidYMid"
+   id="svg3729"
+   sodipodi:docname="pytorch logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata3735">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3733" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3731"
+     showgrid="false"
+     inkscape:zoom="1.3677419"
+     inkscape:cx="146.81616"
+     inkscape:cy="129.14953"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3727" />
+  <g
+     id="g3727"
+     transform="translate(-60.41795,-82.399638)">
+    <g
+       id="g3741">
+      <path
+         style="fill:#ee4c2c;stroke-width:0.4094134"
+         inkscape:connector-curvature="0"
+         id="path3725"
+         d="m 161.00104,119.67278 c 20.37898,20.80361 20.37898,54.17607 0,75.12416 -19.95441,20.80361 -52.7872,20.80361 -73.166182,0 -20.37898,-20.80362 -20.37898,-54.32055 0,-75.12416 L 124.34719,82.399638 v 18.636582 l -3.3965,3.46726 -24.200032,24.70429 c -15.28423,15.31377 -15.28423,40.45147 0,56.05418 15.001192,15.6027 39.625792,15.6027 54.910022,0 15.28423,-15.31377 15.28423,-40.45147 0,-56.05418 z m -18.25616,-2.31151 c -3.75167,0 -6.79299,-3.10469 -6.79299,-6.93454 0,-3.82984 3.04132,-6.93453 6.79299,-6.93453 3.75166,0 6.79299,3.10469 6.79299,6.93453 0,3.82985 -3.04133,6.93454 -6.79299,6.93454 z" />
+      <rect
+         style="fill:none;stroke:none"
+         y="82.399643"
+         x="60.41795"
+         height="128"
+         width="128"
+         id="rect3737" />
+    </g>
+  </g>
+</svg>
