@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 113.59209 128"
+   viewBox="0 0 129 129"
    version="1.1"
    id="svg17123"
    sodipodi:docname="numpy-simple.svg"
-   width="113.59209"
-   height="128"
+   width="129"
+   height="129"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata17129">
@@ -40,16 +40,16 @@
      inkscape:window-height="1017"
      id="namedview17125"
      showgrid="false"
-     inkscape:zoom="0.52054795"
-     inkscape:cx="365"
-     inkscape:cy="126.245"
+     inkscape:zoom="4.1643836"
+     inkscape:cx="46.660394"
+     inkscape:cy="47.990817"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg17123" />
   <g
      id="g17463"
-     transform="scale(0.50444344)">
+     transform="matrix(0.50444344,0,0,0.50444344,7.7039566,0.49999126)">
     <path
        id="path16457"
        d="M 70.482,161.129 71.39,206.388 26.767,198.52 25.86,153.261 Z"
