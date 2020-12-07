@@ -6,10 +6,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # User settings
 username: Alenicheva Alisa
-user_description: I'm Master of Science in  Information Science&Technology, Skoltech. My professional interests vary from Physics and Biotechnology to Data Science and Design, however at the moment I've rooted in ML&DL applications in Drug Discovery. 
-user_title: Data Scientist
-email: alisa.alenicheva@phystech.edu
-# twitter_username: lorem_ipsum
+user_description: I'm Researcher in Machine Learning Applications and Deep Learning in JetBrains Research. My professional interests vary from Physics and Biotechnology to Data Science and Design, however at the moment I've rooted in ML&DL applications in Drug Discovery. 
+user_title: Machine Learning Researcher
+email: koren.iz3x@yandex.ru
+# twitter_username: korney34
 github_username:  korney3
 # gplus_username:  lorem_ipsum
 
